@@ -3,7 +3,7 @@ html{
 }
 
 @font-face{
-  font-family: "Minecraft Regular";
+  font-family: "Minecraft";
   src:url("fonts/MINECRAFTREGULAR-NMK1.OTF") format("truetype");
 }
 
@@ -15,7 +15,7 @@ html{
 }
 
 body {
-  font-family: "Minecraft Regular";
+  font-family: "Minecraft";
   src:url("fonts/MINECRAFTREGULAR-NMK1.OTF") format("truetype");
   background-color: #181818;
   color:white;
