@@ -4,7 +4,7 @@ html{
 
 @font-face{
   font-family: "Minecraft Regular";
-  src:url("/fonts/MINECRAFTREGULAR-NMK1.OTF") format("truetype");
+  src:url("fonts/MINECRAFTREGULAR-NMK1.OTF") format("truetype");
 }
 
 .centered {
@@ -16,7 +16,7 @@ html{
 
 body {
   font-family: "Minecraft Regular";
-  src:url("/fonts/MINECRAFTREGULAR-NMK1.OTF") format("truetype");
+  src:url("fonts/MINECRAFTREGULAR-NMK1.OTF") format("truetype");
   background-color: #181818;
   color:white;
 }
@@ -25,7 +25,7 @@ body {
   color:#FFAA00;
   text-shadow: 3px 3px #000000;
   font-family: "Minecraft";
-  src:url("/fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
+  src:url("fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
 }
 
 img{
