@@ -1,0 +1,47 @@
+html{
+  zoom:250%;
+}
+
+.centered {
+  position:absolute;
+  top: 0; bottom: 0; left: 0; right: 0;
+  margin: auto;
+  height: 230px;
+}
+
+body {
+  font-family: "Minecraft Regular";
+  src:url("./fonts/MINECRAFTREGULAR-NMK1.OTF") format("truetype");
+  background-color: #181818;
+  color:white;
+}
+
+.mcbold{
+  color:#FFAA00;
+  text-shadow: 3px 3px #000000;
+  font-family: "Minecraft";
+  src:url("./fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
+}
+
+img{
+  border-radius:500px;
+}
+
+hr{
+  border-width: 1;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #313131;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 2px 2px #181818;
+  box-shadow: 3px 3px #000000;
+  transition: background-color 0.3s;
+}
+.button:hover {
+  background-color: #282828;
+}
