@@ -10,6 +10,15 @@ html{
   font-style: normal;
 
 }
+
+@font-face {
+  font-family: 'arial';
+  
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 @font-face {
   font-family: 'minecraftitalic';
   src: url('fonts/minecraftitalic-r8mo-webfont.woff2') format('woff2'),
