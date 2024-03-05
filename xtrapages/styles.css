@@ -1,0 +1,86 @@
+html{
+  zoom:250%;
+}
+
+@font-face {
+  font-family: 'minecraftbold';
+  src: url('fonts/minecraftbold-nmk1-webfont.woff2') format('woff2'),
+       url('fonts/minecraftbold-nmk1-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'arial';
+  
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'minecraftitalic';
+  src: url('fonts/minecraftitalic-r8mo-webfont.woff2') format('woff2'),
+       url('fonts/minecraftitalic-r8mo-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'minecraftregular';
+  src: url('fonts/minecraftregular-bmg3-webfont.woff2') format('woff2'),
+       url('fonts/minecraftregular-bmg3-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.centered {
+  position:absolute;
+  top: 0; bottom: 0; left: 0; right: 0;
+  margin: auto;
+  height: 230px;
+}
+
+body {
+  font-family: "minecraftregular";
+  src:url("fonts/MINECRAFTREGULAR-NMK1.OTF") format("truetype");
+  background-color: #181818;
+  color:white;
+}
+
+.mcbold{
+  color:#FFAA00;
+  text-shadow: 3px 3px #000000;
+  font-family: "minecraftbold";
+  src:url("fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
+}
+
+img{
+  border-radius:500px;
+}
+
+hr{
+  border-width: 1;
+}
+
+.blur {
+  filter: blur(5px); /* Change the amount of blur as needed */
+  transition: filter 0.5s ease;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #313131;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 2px 2px #181818;
+  box-shadow: 3px 3px #000000;
+  transition: background-color 0.3s;
+}
+.button:hover {
+  background-color: #282828;
+}
