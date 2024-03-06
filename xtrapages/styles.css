@@ -4,8 +4,8 @@ html{
 
 @font-face {
   font-family: 'minecraftbold';
-  src: url('fonts/minecraftbold-nmk1-webfont.woff2') format('woff2'),
-       url('fonts/minecraftbold-nmk1-webfont.woff') format('woff');
+  src: url('../fonts/minecraftbold-nmk1-webfont.woff2') format('woff2'),
+       url('../fonts/minecraftbold-nmk1-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -21,16 +21,16 @@ html{
 
 @font-face {
   font-family: 'minecraftitalic';
-  src: url('fonts/minecraftitalic-r8mo-webfont.woff2') format('woff2'),
-       url('fonts/minecraftitalic-r8mo-webfont.woff') format('woff');
+  src: url('../fonts/minecraftitalic-r8mo-webfont.woff2') format('woff2'),
+       url('../fonts/minecraftitalic-r8mo-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
 }
 @font-face {
   font-family: 'minecraftregular';
-  src: url('fonts/minecraftregular-bmg3-webfont.woff2') format('woff2'),
-       url('fonts/minecraftregular-bmg3-webfont.woff') format('woff');
+  src: url('../fonts/minecraftregular-bmg3-webfont.woff2') format('woff2'),
+       url('../fonts/minecraftregular-bmg3-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -45,7 +45,7 @@ html{
 
 body {
   font-family: "minecraftregular";
-  src:url("fonts/MINECRAFTREGULAR-NMK1.OTF") format("truetype");
+  src:url("../fonts/MINECRAFTREGULAR-NMK1.OTF") format("truetype");
   background-color: #181818;
   color:white;
 }
@@ -54,7 +54,7 @@ body {
   color:#FFAA00;
   text-shadow: 3px 3px #000000;
   font-family: "minecraftbold";
-  src:url("fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
+  src:url("../fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
 }
 
 img{
