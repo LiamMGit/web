@@ -2,7 +2,8 @@ html{
   zoom:250%;
 }
 #grad {
-  background-image: linear-gradient(rgb(98, 0, 255)(183, 0, 255), rgb(255, 255, 0));
+  background: rgb(134,0,255);
+  background: linear-gradient(225deg, rgba(134,0,255,1) 0%, rgba(164,110,166,1) 33%, rgba(208,255,0,1) 100%); 
 }
 
 @font-face {
