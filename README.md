@@ -4,8 +4,10 @@ thanks will for the web base
 and thanks to oaafy and will for helping my dumbass code
 
 anyways for sticking around kinito would like to read you a story
+
 ![Kinito from https://kinitopet.com](/images/kinitoread.png)
- Funny Maud Sparkle
+
+Funny Maud Sparkle
 A Short Story
 by Kinito
 
