@@ -1,7 +1,7 @@
 # hi this is my website
 thanks will for the web base
 
-and thanks to oaafy and will for helping my dumbass code
+and thanks to will for helping my dumbass code
 
 anyways for sticking around kinito would like to read you a story
 
