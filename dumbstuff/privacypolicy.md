@@ -30,3 +30,5 @@ We do not sell or rent your personal information to third parties. We may share 
 Your data may also be shared under the following circumstances:
 
 If required by law or in response to a valid legal request.
+
+For any inquiries, please contact us at yuggysquad@gmail.com
